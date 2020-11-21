@@ -9,6 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title>HALO</title>
     <div>hey hey</div>
+    <tr>chia lingg chia lingg chia lingg</tr>
     </head>
     <body>
         <?php
