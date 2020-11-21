@@ -10,11 +10,18 @@ and open the template in the editor.
         <title>HALO</title>
     <div>hey hey</div>
     <div>haloooooooooooooooooooooooooooooooooooooooooooo</div>
-    
-    </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
-    </body>
+    <div>hey bao</div>
+    <div>hey baloo</div>
+    <div>hey baooo</div>
+    <div>hey boooo</div>
+    <div>hey boo</div>
+    <div>hey baooo</div>
+
+
+</head>
+<body>
+    <?php
+    // put your code here
+    ?>
+</body>
 </html>
